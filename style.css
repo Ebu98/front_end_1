@@ -1,0 +1,253 @@
+.logo {
+    position: absolute;
+    width: 119px;
+    height: 28px;
+    left: 661px;
+    top: 80px;
+}
+.leftimage {
+    position: absolute;
+    left: -32px;
+    top: 169px;
+}
+.rightimage {
+    position: absolute;
+    right: -32px;
+    top: 224px;
+}
+.bigtext {
+    position: absolute;
+    width: 445px;
+    height: 128px;
+    left: 498px;
+    top: 216px;
+
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 64px;
+    /* or 100% */
+    text-align: center;
+    color: #28283D;
+}
+.paragraph {
+    position: absolute;
+    width: 540px;
+    height: 52px;
+    left: 450px;
+    top: 378px;
+
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* or 144% */
+    text-align: center;
+    color: #87879D;
+}
+.pributton{
+    color: white;
+    position: absolute;
+    width: 193px;
+    height: 58px;
+    left: 546px;
+    top: 462px;
+    background: #71C0D4;
+    border-radius: 29px;
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px;
+}
+.probutton{
+
+    position: absolute;
+    height: 26px;
+    left: 20.86%;
+    right: 20.86%;
+    top: calc(50% - 26px/2);
+    /* font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px; */
+    
+}    
+.or {
+    position: absolute;
+    width: 56px;
+    height: 140px;
+    left: 692px;
+    top: 637px;
+}
+.secbutton{
+    position: absolute;
+    width: 139px;
+    height: 58px;
+    left: 755px;
+    top: 462px;
+    
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+
+    background: #B18BDD;
+    border-radius: 29px;
+}
+.imagewoman{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 240px;
+    top: 788px;
+    
+}
+.imagewomen{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 450px;
+    top: 785px;
+    
+
+}
+.imagemen{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 669px;
+    top: 785px;
+
+}
+.imageman{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 885px;
+    top: 785px;
+    
+
+}
+.textlogos{
+
+    position: absolute;
+    width: 540px;
+    height: 240px;
+    left: 530px;
+    top: 1050px
+    
+}
+.secondtext{
+
+    position: absolute;
+    width: 540px;
+    height: 240px;
+    left: 450px;
+    top: 1099px;
+
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 44px;
+    /* or 110% */
+    
+    text-align: center;
+    
+    color: #28283D;
+}
+.thirdtext{
+
+    position: absolute;
+    width: 540px;
+    height: 240px;
+    left: 450px;
+    top: 1200px;
+
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* or 144% */
+
+    text-align: center;
+
+    color: #87879D;
+
+}
+.downblock{
+
+    position: absolute;
+    left: 0%;
+    right:0%;
+    top:180%;
+    bottom: 0%;
+
+    background: #4D96A9;
+    
+}
+.largetext{
+
+
+    position: absolute;
+    width: 193px;
+    height: 58px;
+    left: 700px;
+    top: 1500px;
+        
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* or 144% */
+
+
+    color: #FAFAFA;
+
+
+}
+.largertext{
+
+    position: absolute;
+    width: 350px;
+    height: 88px;
+    left: 165px;
+    top: 1500px;
+
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 44px;
+
+
+    color: #FAFAFA;
+
+}
+.probutton{
+
+    position: absolute;
+    width: 193px;
+    height: 58px;
+    left: 1082px;
+    top: 1530px;
+    outline: none;
+    background: #855FB1;
+    border-radius: 29px;
+
+    color: #FFFFFF;
+    
+}
